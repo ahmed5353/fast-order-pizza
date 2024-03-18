@@ -63,6 +63,3 @@ Contributions are welcome! If you'd like to contribute to Fast Order Pizza, plea
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-Special thanks to the developers of React, React Router, Redux Toolkit, Vite, and Tailwind CSS for providing the tools necessary to build Fast Order Pizza.
